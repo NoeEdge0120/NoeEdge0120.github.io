@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://cfsovo.tk"
+languageCode = "zh-Hant-TW"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
