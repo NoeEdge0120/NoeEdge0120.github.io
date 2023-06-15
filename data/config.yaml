@@ -14,13 +14,13 @@ enableGitHubEdit: false
 enableMermaid: true
 GitHubLink:
 search:
-  enableSemanticSearch: true
+  enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description: "脫離世俗 與緣相遇"
 page_title: "🪴 Quartz 3.3"
-# links:
-#   - link_name: Twitter
-#     link: https://twitter.com/_jzhao
-#   - link_name: GitHub
-#     link: https://github.com/jackyzha0
+links:
+  - link_name: Twitter
+    link: https://twitter.com/_jzhao
+  - link_name: GitHub
+    link: https://github.com/jackyzha0
